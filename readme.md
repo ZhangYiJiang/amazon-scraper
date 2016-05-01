@@ -1,9 +1,15 @@
-# Glint Amazon Web Scraper
+# Amazon Web Scraper
+
+A simple toy project that scrapes Amazon search results and displays the data on a
+simple webpage
+
+Demo available - https://meebleforp.com/projects/glint/
 
 ## Stack:
 
  - Laravel 5.2 PHP framework
  - Python 3.5 with requests and Beautiful Soup 4.4 for scraping
+ - Bootstrap 3 with a touch of jQuery
 
 ## Prerequisites
 
