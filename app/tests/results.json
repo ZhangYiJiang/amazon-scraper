@@ -1,0 +1,239 @@
+[
+  {
+    "title": "JavaScript and JQuery: Interactive Front-End Web Development",
+    "author_name": "Jon Duckett",
+    "url": "http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647",
+    "author_url": "http://www.amazon.com/Jon-Duckett/e/B001IR3Q7I/ref=sr_ntt_srch_lnk_1?qid=1461977581&sr=8-1",
+    "description": "<noscript>\n<div> This full-color book will show you how to make your websites more interactive and your interfaces more interesting and intuitive.<br><br> <b>THIS BOOK COVERS:</b><br> <ol> <li><b>Basic programming concepts</b> - assuming <i>no prior knowledge</i> of programming beyond an ability to create a web page using HTML &amp; CSS</li> <li><b>Core elements of the JavaScript language</b> - so you can learn how to write your own scripts from scratch</li> <li><b>jQuery</b> - which will allow you to simplify the process of writing scripts (this is introduced half-way through the book once you have a solid understanding of JavaScript)</li> <li><b>How to recreate techniques you will have seen on other web sites</b> such as sliders, content filters, form validation, updating content using Ajax, and much more (these examples demonstrate writing your own scripts from scratch and how the theory you have learned is put into practice).</li> </ol> As with our first book (the best-selling <b>HTML &amp; CSS: Design and Build Websites</b>), each chapter:<br> <ul> <li>Breaks subjects down into bite-sized chunks with a new topic on each page</li> <li>Contains clear descriptions of syntax, each one demonstrated with inspiring code samples</li> <li>Uses diagrams and photography to explain complex concepts in a visual way</li> </ul> By the end of the book, not only will you be able to use the thousands of scripts, JavaScript APIs, and jQuery plugins that are freely available on the web, and be able to customize them - you will also be able to create your own scripts from scratch.<br><br> If you're looking to create more enriching web experiences, then this is the book for you.</br></br></br></br></br></br></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1118531648",
+    "cover_url": "http://ecx.images-amazon.com/images/I/41oa41LdNdL._AC_US160_.jpg",
+    "rating": "4.4",
+    "price": {
+      "Paperback": "$28.85",
+      "Hardcover": "$38.23"
+    },
+    "asin": "1118531647"
+  },
+  {
+    "title": "A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half",
+    "author_name": "Mark Myers",
+    "url": "http://www.amazon.com/Smarter-Way-Learn-JavaScript-technology/dp/1497408180",
+    "author_url": "http://www.amazon.com/Mark-Myers/e/B00HNW14T4/ref=sr_ntt_srch_lnk_2?qid=1461977581&sr=8-2",
+    "description": "<noscript>\n<div> <h2>The ultimate learn-by-doing approach</h2><p>Written for beginners, useful for experienced developers who want to sharpen their skills and don't mind covering some ground they already know. (Feel free to skip early chapters that cover elementary topics like alerts, variables, and strings).  Step-by-step, you learn the fundamentals of JavaScript as well as some advanced concepts including constructors and prototypes.</p><p>The book is extremely user-friendly. It assumes no programming experience. Chapters cover only as much as the average learner can absorb in ten minutes, so you're never asked to eat an elephant. Explanations are in plain, nontechnical English that people of all backgrounds can readily understand.  With ample coding examples and illustrations.</p><p>The most important part: free, online, interactive exercises paired with each chapter. Cognitive research shows that retention increases 400 percent when learners are challenged to retrieve the information they just read. You'll spend two to three times as long practicing as reading. When you code incorrectly, you'll get as many do-overs as you need, until you know it cold.</p><p>Testing showed that books and courses load up the reader with <em>far</em> too much information at a time. So I divide up the information into little chunks that won't overwhelm you.</p><p>A book on coding doesn't have to be written in impenetrable legalese. It can actually be human-readable. My book is.</p><p>People often learn best through examples, so I provide plenty of them.</p><p>Most important, before you have a chance to forget what you've read in the book, I ask you to fire up your desktop or laptop (not your mobile device) and head over to my website, where you run a set of interactive exercises, practicing everything you've learned\u2014until you're sure you've mastered it.</p><p>Readers tell me they often start the exercises thinking they've learned the latest lesson, and quickly find out they're still a little shaky on it. The automated exercise manager protects you against this common learner delusion. It keeps you at it until your overconfidence becomes real confidence\u2014confidence that's based on your excellent performance. There are 1,750 exercises in all. They're all interactive, with an automated answer-checker that corrects your missteps and points you in the right direction when you stumble. And they're all free.</p><p>Thousands of readers have filled out feedback forms telling me that the combination of the book and interactive exercises is involving, fun, frustration-free, addictive, confidence-building, and...well, read the reviews.</p></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1497408180",
+    "cover_url": "http://ecx.images-amazon.com/images/I/51JwcqaSYPL._AC_US160_.jpg",
+    "rating": "4.8",
+    "price": {
+      "Paperback": "$17.96",
+      "Kindle Edition": "$7.99"
+    },
+    "asin": "1497408180"
+  },
+  {
+    "title": "JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides)",
+    "author_name": "David Flanagan",
+    "url": "http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides-ebook/dp/B004XQX4K0",
+    "author_url": "http://www.amazon.com/David-Flanagan/e/B000APEZR4/ref=sr_ntt_srch_lnk_3?qid=1461977581&sr=8-3",
+    "description": "<noscript>\n<div> <div><p>Since 1996, <i>JavaScript: The Definitive Guide</i> has been the bible for JavaScript programmers\u2014a programmer's guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers.</p><p>The 6th edition covers HTML5 and ECMAScript 5. Many chapters have been completely rewritten to bring them in line with today's best web development practices. New chapters in this edition document jQuery and server side JavaScript. It's recommended for experienced programmers who want to learn the programming language of the Web, and for current JavaScript programmers who want to master it.</p><p>\"A must-have reference for expert JavaScript programmers...well-organized and detailed.\"<br/>\u2014Brendan Eich, creator of JavaScript, CTO of Mozilla</p><p>\"I made a career of what I learned from <i>JavaScript: The Definitive Guide</i>.\u201d<br/>\u2014Andrew Hedges, Tapulous</p></div></div>\n<em></em>\n</noscript>",
+    "isbn": null,
+    "cover_url": "http://ecx.images-amazon.com/images/I/51CxDZt9xWL._AC_US160_.jpg",
+    "rating": "4.5",
+    "price": {
+      "Paperback": "$33.89",
+      "Kindle Edition": "$9.32"
+    },
+    "asin": "B004XQX4K0"
+  },
+  {
+    "title": "Web Design with HTML, CSS, JavaScript and jQuery Set",
+    "author_name": "Jon Duckett",
+    "url": "http://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442",
+    "author_url": "http://www.amazon.com/Jon-Duckett/e/B001IR3Q7I/ref=sr_ntt_srch_lnk_4?qid=1461977581&sr=8-4",
+    "description": "<noscript>\n<div> <b>A two-book set for web designers and front-end developers</b> <p>This two-book set combines the titles <i>HTML &amp; CSS: Designing and Building Web Sites</i> and <i>JavaScript &amp; jQuery: Interactive Front-End Development</i>. Together these two books form an ideal platform for anyone who wants to master HTML and CSS before stepping up to JavaScript and jQuery.</p> <p><i>HTML &amp; CSS</i> covers structure, text, links, images, tables, forms, useful options, adding style with CSS, fonts, colors, thinking in boxes, styling lists and tables, layouts, grids, and even SEO, Google analytics, ftp, and HTML5. <i>JavaScript &amp; jQuery</i> offers an excellent combined introduction to these two technologies using a clear and simple visual approach using diagrams, infographics, and photographs.</p> <ul> <li>A handy two-book set that uniquely combines related technologies</li> <li>Highly visual format and accessible language makes these books highly effective learning tools</li> <li>Perfect for beginning web designers and front-end developers</li> </ul></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1118907443",
+    "cover_url": "http://ecx.images-amazon.com/images/I/416M8+8aNvL._AC_US160_.jpg",
+    "rating": "4.7",
+    "price": {
+      "Paperback": "$38.38",
+      "Hardcover": "$49.50"
+    },
+    "asin": "1118907442"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author_name": "Douglas Crockford",
+    "url": "http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742",
+    "author_url": "http://www.amazon.com/Douglas-Crockford/e/B002N3VYB6/ref=sr_ntt_srch_lnk_5?qid=1461977581&sr=8-5",
+    "description": "<noscript>\n<div> <div><p>Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole\u2014a subset you can use to create truly extensible and efficient code.</p><p>Considered <em>the</em> JavaScript expert by many people in the development community, author Douglas Crockford identifies the abundance of good ideas that make JavaScript an outstanding object-oriented programming language-ideas such as functions, loose typing, dynamic objects, and an expressive object literal notation. Unfortunately, these good ideas are mixed in with bad and downright awful ideas, like a programming model based on global variables.</p><p>When Java applets failed, JavaScript became the language of the Web by default, making its popularity almost completely independent of its qualities as a programming language. In <em>JavaScript: The Good Parts</em>, Crockford finally digs through the steaming pile of good intentions and blunders to give you a detailed look at all the genuinely elegant parts of JavaScript, including:</p><ul><li>Syntax</li><li>Objects</li><li>Functions</li><li>Inheritance</li><li>Arrays</li><li>Regular expressions</li><li>Methods</li><li>Style</li><li>Beautiful features</li></ul><p>The real beauty? As you move ahead with the subset of JavaScript that this book presents, you'll also sidestep the need to <em>unlearn</em> all the bad parts. Of course, if you want to find out more about the bad parts and how to use them badly, simply consult any other JavaScript book.</p><p>With <em>JavaScript: The Good Parts</em>, you'll discover a beautiful, elegant, lightweight and highly expressive language that lets you create effective code, whether you're managing object libraries or just trying to get Ajax to run fast. If you develop sites or applications for the Web, this book is an absolute must.</p></div></div>\n<em></em>\n</noscript>",
+    "isbn": "978-0596517748",
+    "cover_url": "http://ecx.images-amazon.com/images/I/518QVtPWA7L._AC_US160_.jpg",
+    "rating": "4.1",
+    "price": {
+      "Paperback": "$20.97",
+      "Kindle Edition": "$6.02"
+    },
+    "asin": "0596517742"
+  },
+  {
+    "title": "Thinking in JavaScript",
+    "author_name": "Aravind Shenoy",
+    "url": "http://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ",
+    "author_url": "http://www.amazon.com/Aravind-Shenoy/e/B00ITSR2WE/ref=sr_ntt_srch_lnk_6?qid=1461977581&sr=8-6",
+    "description": "<noscript>\n<div> <p>JavaScript is a scripting language for the web. Before we delve into the intricacies of JavaScript, we need to know why it is used. While HTML tells your browser how your webpage will look, JavaScript is used for dynamic content and to add functionality. </p><p>Using this book, you will understand the concept of JavaScript and its use in web designing. You will also have a look at jQuery in general. You will learn about Functions, Operators, the concept of Variables, Conditions and Loops, Arrays, and the basics of jQuery in this book. </p><p>Instead of wandering through loads of theory, we have used practical examples in this book. The examples in this book are compatible with almost every browser.  Instead of using the verbatim code, you can modify the code and see the change in the output thereby understanding the subtle nuances of JavaScript. </p><p>By the end of the book, with practice, you can achieve better things and get more acquainted with JavaScript. </p></div>\n<em></em>\n</noscript>",
+    "isbn": null,
+    "cover_url": "http://ecx.images-amazon.com/images/I/51Jn++niruL._AC_US160_.jpg",
+    "rating": "3.5",
+    "price": {
+      "Kindle Edition": "$0.00"
+    },
+    "asin": "B00JUI6LUQ"
+  },
+  {
+    "title": "The Principles of Object-Oriented JavaScript",
+    "author_name": "Nicholas C. Zakas",
+    "url": "http://www.amazon.com/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404",
+    "author_url": "http://www.amazon.com/Nicholas-C.-Zakas/e/B001IGUTOC/ref=sr_ntt_srch_lnk_7?qid=1461977581&sr=8-7",
+    "description": "<noscript>\n<div> <div><p>If you've used a more traditional object-oriented language, such as C++ or Java, JavaScript probably doesn't seem object-oriented at all. It has no concept of classes, and you don't even need to define any objects in order to write code. But don't be fooled\u2014JavaScript is an incredibly powerful and expressive object-oriented language that puts many design decisions right into your hands.<br/><br/>In <i>The Principles of Object-Oriented JavaScript</i>, Nicholas C. Zakas thoroughly explores JavaScript's object-oriented nature, revealing the language's unique implementation of inheritance and other key characteristics. You'll learn:<br/><br/></p><ul><li>The difference between primitive and reference values</li><li>What makes JavaScript functions so unique</li><li>The various ways to create objects</li><li>How to define your own constructors</li><li>How to work with and understand prototypes</li><li>Inheritance patterns for types and objects</li></ul><br/><br/><i>The Principles of Object-Oriented JavaScript</i> will leave even experienced developers with a deeper understanding of JavaScript. Unlock the secrets behind how objects work in JavaScript so you can write clearer, more flexible, and more efficient code.</div></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1593275402",
+    "cover_url": "http://ecx.images-amazon.com/images/I/51F2KSDxGwL._AC_US160_.jpg",
+    "rating": "4.9",
+    "price": {
+      "Paperback": "$16.14",
+      "Kindle Edition": "$9.99"
+    },
+    "asin": "1593275404"
+  },
+  {
+    "title": "Javascript: QuickStart Guide - Effective Javascript Programming (Javascript, Programming, HTML, CSS)",
+    "author_name": "William Fischer",
+    "url": "http://www.amazon.com/Javascript-QuickStart-Guide-Effective-Programming-ebook/dp/B01CF79P92",
+    "author_url": null,
+    "description": "<noscript>\n<div> <h1><b>Learn the Basics of JavaScript Programming Quickly with this Definitive Guide</b></h1> <br/> <br/><h3><b>Read This Book for FREE with Kindle Unlimited \u2013 Order Now!</b></h3> <br/><b></b>Are you an amateur just getting started with JavaScript Programming? Have you ever thought what you could achieve if you could create something from the scratch that'd solve problems in just seconds? <p></p> <br/>With <b><i>JavaScript: Quick start Guide \u2013 Effective JavaScript Programming</i></b>, you\u2019ll learn different concepts of JavaScript, its syntax and how you can start programming in it, basic understanding of the variables, keywords, operators and loops needed to quickstart JavaScript Programming. <p></p> <br/>This book will assist you not only to develop your skills, but most importantly, it will help you unlock the joy of learning a new programming language. It covers the following topics:<p></p> <br/><li>Introduction to JavaScript Programming, Specifications and Features, Syntax, Enabling and Disabling JavaScript in your Web Browser, Data Types, Case Statements and Loops\r<br/><i>and also</i> Operators</li> <br/><h2><b>So don\u2019t delay it any longer. Take this opportunity and invest in this guide now. Download Your Copy of <i>JavaScript: Quick start Guide \u2013 Effective JavaScript Programming</i> Right Away!</b></h2> <br/><i>You will be glad by the skills you will quickly attain! Happy Programming!</i><p></p> <br/></div>\n<em></em>\n</noscript>",
+    "isbn": null,
+    "cover_url": "http://ecx.images-amazon.com/images/I/51KlkwySgqL._AC_US160_.jpg",
+    "rating": "4.4",
+    "price": {
+      "Kindle Edition": "$0.00"
+    },
+    "asin": "B01CF79P92"
+  },
+  {
+    "title": "Learning JavaScript: JavaScript Essentials for Modern Application Development",
+    "author_name": "Ethan Brown",
+    "url": "http://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912",
+    "author_url": null,
+    "description": "<noscript>\n<div> <div><p>This is an exciting time to learn JavaScript. Now that the latest JavaScript specification\u2014ECMAScript 6.0 (ES6)\u2014has been finalized, learning how to develop high-quality applications with this language is easier and more satisfying than ever. This practical book takes programmers (amateurs and pros alike) on a no-nonsense tour of ES6, along with some related tools and techniques.</p><p>Author Ethan Brown (<i>Web Development with Node and Express</i>) not only guides you through simple and straightforward topics (variables, control flow, arrays), but also covers complex concepts such as functional and asynchronous programming. You\u2019ll learn how to create powerful and responsive web applications on the client, or with Node.js on the server.</p><ul><li>Use ES6 today and transcompile code to portable ES5</li><li>Translate data into a format that JavaScript can use</li><li>Understand the basic usage and mechanics of JavaScript functions</li><li>Explore objects and object-oriented programming</li><li>Tackle new concepts such as iterators, generators, and proxies</li><li>Grasp the complexities of asynchronous programming</li><li>Work with the Document Object Model for browser-based apps</li><li>Learn Node.js fundamentals for developing server-side applications</li></ul></div></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1491914915",
+    "cover_url": "http://ecx.images-amazon.com/images/I/51DXEHXBLOL._AC_US160_.jpg",
+    "rating": "2.0",
+    "price": {
+      "Paperback": "$28.44",
+      "Kindle Edition": "$19.49"
+    },
+    "asin": "1491914912"
+  },
+  {
+    "title": "A Software Engineer Learns HTML5, JavaScript and jQuery",
+    "author_name": "Dane Cameron",
+    "url": "http://www.amazon.com/Software-Engineer-Learns-JavaScript-jQuery/dp/1493692615",
+    "author_url": "http://www.amazon.com/Dane-Cameron/e/B00GXWU0KO/ref=sr_ntt_srch_lnk_10?qid=1461977581&sr=8-10",
+    "description": "<noscript>\n<div> <div><b>New revision is now available.</b>\u00a0Fully revised and re-edited.</div><div></div><div></div><div>HTML5 web applications are now capable of matching or exceeding the scale and sophistication of desktop applications, but with the unique advantage of running natively inside the web browsers on billions of desktop computers, phones, TVs and tablets.</div><div></div><div>This revolution (or more correctly - evolution) has happened for a number of reasons:</div><div><ul><li>Browsers have introduced new standards-based APIs allowing web applications to (amongst other things) store data offline, retrieve data from the server dynamically, spawn background processes and interact with the filesystem.</li><li>Software engineers and programmers have begun to think of the much maligned JavaScript language in a new light, and unlock its potential as a rich and expressive language capable of producing large scale, well-structured applications.</li><li>The jQuery library has eased the pain of interacting with Document Object Model, and therefore writing applications that dynamically respond to user interaction.</li><li>The HTML markup language has been overhauled and extended to provide more semantic meaning, and many additional elements and attributes.</li></ul></div><div></div><div><b>A Software Engineer Learns HTML5, JavaScript and jQuery</b> guides you through the process I went through as an experienced software engineer, writing a large-scale, standards based web-application for the first time. It is intended to teach you the fundamentals of HTML5, JavaScript and jQuery - without presenting you with long lists of APIs, or intricate details of every feature (these can be found in reference manuals).\u00a0</div><div></div><div></div><div></div><div></div><div></div><div>This book is not a simple introduction to the subject matter: it guides you through the process of building a feature-rich web application. The application begins simple, and becomes gradually more complex as additional APIs and features are introduced. This book includes the following content:\u00a0</div><div></div><div><ol><li>An introduction to the HTML5 markup language, and how it differs from HTML4 and XHTML.\u00a0</li><li>An introduction to JavaScript, including an in-depth look at its use of objects and functions, along with the design patterns that support the development of robust web applications.\u00a0</li><li>An introduction to jQuery selection, traversal, manipulation and events.\u00a0</li><li>An in-depth look at the Web storage and IndexedDB APIs for client side data storage.\u00a0</li><li>A guide to implementing offline web applications with the Application Cache API.\u00a0</li><li>An introduction to the ways JavaScript can interact with the users file-system using the FileReader API.\u00a0</li><li>A guide to the use of Web Workers in web applications.\u00a0</li><li>An introduction to AJAX, and the jQuery API supporting AJAX.\u00a0</li><li>An introduction to Server Sent Events and Web Sockets. \u00a0</li></ol><div>This book is intended for anyone with at least a superficial knowledge of HTML and programming (in any language).</div></div><div></div><div></div></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1493692613",
+    "cover_url": "http://ecx.images-amazon.com/images/I/41XtnwhGs6L._AC_US160_.jpg",
+    "rating": "4.3",
+    "price": {
+      "Paperback": "$13.49",
+      "Kindle Edition": "$0.00"
+    },
+    "asin": "1493692615"
+  },
+  {
+    "title": "JavaScript: Crash Course - The Ultimate Beginner's Course to Learning JavaScript Programming in Under 12 Hours",
+    "author_name": "Eprogramy and ",
+    "url": "http://www.amazon.com/JavaScript-Ultimate-Beginners-Learning-Programming-ebook/dp/B00YQB5JPK",
+    "author_url": "http://www.amazon.com/Eprogramy/e/B00Y9CTNTO/ref=sr_ntt_srch_lnk_11?qid=1461977581&sr=8-11",
+    "description": "<noscript>\n<div> <h2>Are You Ready to Learn JavaScript Programming FASTER Than You Ever Thought Possible?</h2> <br/><b>Welcome to the Ultimate Crash Course on JavaScript!</b> <br/> <br/><b>With Tons of Detailed Step by Step Procedures Inside!</b> <br/> <br/>Are you ready to unlock the keys to the future? If your answer is a resounding 'YES!', then this crash course on JavaScript Programming is exactly what you need in your toolkit. In these days of the 3.0 era, there are essential tools that we must absolutely have at hand to solve everyday problems. And guess what? One of these skills consists of... how to use programming languages. Can you imagine what we could do if we'd knew how to write a simple instruction for our PC? What we could achieve if we could create from scratch something that'd solve problems in just seconds? That would be absolutely amazing: no limits, no boundaries, no frontiers. A whole new world of possibilities in front of us!\r<br/> <br/>Perhaps you are an amateur just getting started with JavaScript, or maybe you already know a few things about this exciting programming language and you'd like to reach for the next level. Which one are you? Actually, it doesn't matter! This course will approach JavaScript Programming from both starting points! The aim is to achieve all the necessary skills to learn how to program JavaScript in under 12 hours. Yes, I said it! 12 hours. In less than half a day you will incorporate the ABCS of JavaScript, and from there you'll develop the advanced techniques you need to create your own projects.\r<br/> <br/>Want to hear the best part? This is not a mere theoretical book. Not at all. In here, you'll find tons of useful exercises and tasks that will take your JavaScript skills (and overall, your whole programming skills) to a whole new level. You'll experience in first person how simple and entertaining JavaScript can be! This book will assist you not only to develop and improve your skills, but most importantly, it will help you unlock the joy learning a new programming language can unexpectedly bring. You can be sure of that!\r<br/> <br/>The idea we're proposing is quite simple. You will learn JavaScript from zero to hero, in less than half a day. We will go from the root to the top of this ground-breaking programming language, and from there we'll build the solid foundations you are looking for. And at the end you will find a special bonus! Sounds good? So let's go for it!\r<br/> <br/><h2>Here Is A Preview Of What You'll Learn Inside...</h2> <ul><li>Welcome To Your New Programming Language</li><li>History of JavaScript</li><li>What is JavaScript?</li><li>Important Things to Understand:Basics of HTML and CSS</li><li>JavaScript Language Structure</li><li>JavaScript Variables</li><li>JavaScript Operators</li><li>Boolean Logic</li><li>Loops and Arrays</li><li>Useful Functions in JavaScript</li><li>DOM Elements</li><li>AJAX</li><li>NodeJS</li><li>Canvas</li><li>JavaScript Objects</li><li>JavaScript Functions</li><li>Debugging</li><li>Exception Handling</li><li>Example Programs</li><li>Much, much more!</li></ul> <br/> <br/>The contents of this book are easily worth over $9.99, but for a limited time you can download \"JavaScript Programming Crash Course, The Ultimate Beginner\u2019s Course to Learning JavaScript Programming in Under 12 hours \u2013\" for a special discounted price.\r<br/> <br/>Promotional discount price periods:\r<br/>1)From 10/13/2015 to 10/20/2015 this book will be available at the super special discount price of 0,99$\r<br/>We reserve the right to offer other promotions or to extend this one to benefit our readers.\r<br/>We will be very grateful if during the discount price periods you can provide your honest and unbiased review. If you are willing to do so remember to disclose this fact, for example  as follows: \"I've got this product at a promotional discount price of $ 0,99 in exchange for an honest and unbiased review\"\r<br/> <br/><b>Buy Your Copy Right Now!</b> <br/></div>\n<em></em>\n</noscript>",
+    "isbn": null,
+    "cover_url": "http://ecx.images-amazon.com/images/I/51AMBxh+oUL._AC_US160_.jpg",
+    "rating": "4.3",
+    "price": {
+      "Paperback": "$9.99",
+      "Kindle Edition": "$0.00"
+    },
+    "asin": "B00YQB5JPK"
+  },
+  {
+    "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+    "author_name": "Marijn Haverbeke",
+    "url": "http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846",
+    "author_url": "http://www.amazon.com/Marijn-Haverbeke/e/B00RY7WYKG/ref=sr_ntt_srch_lnk_12?qid=1461977581&sr=8-12",
+    "description": "<noscript>\n<div> <div><p>JavaScript lies at the heart of almost every modern web application, from social apps to the newest browser-based games. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications.</p><p><i>Eloquent JavaScript, 2nd Edition</i> dives deep into the JavaScript language to show you how to write beautiful, effective code. Author Marijn Haverbeke immerses you in example code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn:</p><ul><li>The essential elements of programming, including syntax, control, and data</li><li>How to organize and clarify your code with object-oriented and functional programming techniques</li><li>How to script the browser and make basic web applications</li><li>How to use the DOM effectively to interact with browsers</li><li>How to harness Node.js to build servers and utilities</li></ul>This edition is thoroughly revised and modernized to reflect the current state of JavaScript and web browsers, with brand-new material, such as a chapter on code performance in Java\u00c2\u00adScript, and expanded coverage of recursion and closures. All source code is available online in an interactive sandbox, where you can edit the code, run it, and see its output instantly.<p>Isn't it time you became fluent in the language of the Web?</p></div></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1593275846",
+    "cover_url": "http://ecx.images-amazon.com/images/I/51zFTdNilAL._AC_US160_.jpg",
+    "rating": "4.2",
+    "price": {
+      "Paperback": "$27.92",
+      "Kindle Edition": "$19.99"
+    },
+    "asin": "1593275846"
+  },
+  {
+    "title": "Head First JavaScript Programming",
+    "author_name": "Eric T. Freeman and ",
+    "url": "http://www.amazon.com/Head-First-JavaScript-Programming-Freeman/dp/144934013X",
+    "author_url": null,
+    "description": "<noscript>\n<div> <div><p><b>What will you learn from this book?</b></p><p>This brain-friendly guide teaches you everything from JavaScript language fundamentals to advanced topics, including objects, functions, and the browser\u2019s document object model. You won\u2019t just be reading\u2014you\u2019ll be playing games, solving puzzles, pondering mysteries, and interacting with JavaScript in ways you never imagined. And you\u2019ll write real code, lots of it, so you can start building your own web applications. Prepare to open your mind as you learn (and nail) key topics including:</p><ul><li>The inner details of JavaScript</li><li>How JavaScript works with the browser</li><li>The secrets of JavaScript types</li><li>Using arrays</li><li>The power of functions</li><li>How to work with objects</li><li>Making use of prototypes</li><li>Understanding closures</li><li>Writing and testing applications</li></ul><p><b>What\u2019s so special about this book?</b></p><p>We think your time is too valuable to waste struggling with new concepts. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, <i>Head First JavaScript Programming</i> uses a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep. This book replaces Head First JavaScript, which is now out of print.</p></div></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1449340131",
+    "cover_url": "http://ecx.images-amazon.com/images/I/51qpyuO-ANL._AC_US160_.jpg",
+    "rating": "4.4",
+    "price": {
+      "Paperback": "$38.63",
+      "Kindle Edition": "$8.96"
+    },
+    "asin": "144934013X"
+  },
+  {
+    "title": "Professional JavaScript for Web Developers",
+    "author_name": "Nicholas C. Zakas",
+    "url": "http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691",
+    "author_url": "http://www.amazon.com/Nicholas-C.-Zakas/e/B001IGUTOC/ref=sr_ntt_srch_lnk_14?qid=1461977581&sr=8-14",
+    "description": "<noscript>\n<div> <p>This book provides a developer-level introduction along with more advanced and useful features of JavaScript. Coverage includes:</p> <ul> <li>JavaScript use with HTML to create dynamic webpages, language concepts including syntax and flow control statements</li> <li>variable handling given their loosely typed nature</li> <li>built-in reference types such as object and array</li> <li>object-oriented programing</li> <li>powerful aspects of function expressions</li> <li>Browser Object Model allowing interaction with the browser itself</li> <li>detecting the client and its capabilities</li> <li>Document Object Model (DOM) objects available in DOM Level 1</li> <li>how DOM Levels 2 and 3 augmented the DOM</li> <li>events, legacy support, and how the DOM redefined how events should work</li> <li>enhancing form interactions and working around browser limitations</li> <li>using the &lt;canvas &gt; tag to create on-the-fly graphics</li> <li>JavaScript API changes in HTML5</li> <li>how browsers handle JavaScript errors and error handling</li> <li>features of JavaScript used to read and manipulate XML data</li> <li>the JSON data format as an alternative to XML</li> <li>Ajax techniques including the use of XMLHttpRequest object and CORS</li> <li>complex patterns including function currying, partial function application, and dynamic functions</li> <li>offline detection and storing data on the client machine</li> <li>techniques for JavaScript in an enterprise environment for better maintainability</li> </ul> <p>This book is aimed at three groups of readers: Experienced object-oriented programming developers looking to learn JavaScript as it relates to traditional OO languages such as Java and C++; Web application developers attempting to enhance site usability; novice JavaScript developers.</p> <p>Nicholas C. Zakas worked with the Web for over a decade. He has worked on corporate intranet applications used by some of the largest companies in the world and large-scale consumer websites such as MyYahoo! and the Yahoo! homepage. He regularly gives talks at companies and conferences regarding front-end best practices and new technology.</p></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1118026694",
+    "cover_url": "http://ecx.images-amazon.com/images/I/518NO3X1X2L._AC_US160_.jpg",
+    "rating": "4.4",
+    "price": {
+      "Paperback": "$30.97",
+      "Kindle Edition": "$23.99"
+    },
+    "asin": "1118026691"
+  },
+  {
+    "title": "JavaScript: The Ultimate Beginner's Guide!",
+    "author_name": "Andrew Johansen",
+    "url": "http://www.amazon.com/JavaScript-Ultimate-Beginners-Andrew-Johansen/dp/152373082X",
+    "author_url": null,
+    "description": "<noscript>\n<div> <p><b>JavaScript... Master It Today!</b> </p> <p>This book will help you become an effective JavaScript user. If you want to learn the basics of the JavaScript language quickly and easily, then you must get this book now. </p> <p>This book will explain important facts regarding the JavaScript language. It doesn\u2019t contain any irrelevant information. Each page holds valuable lessons, instructions and examples. After reading this book, you\u2019ll be familiar with objects, functions, variables, statements and other JavaScript elements. </p></div>\n<em></em>\n</noscript>",
+    "isbn": "978-1523730827",
+    "cover_url": "http://ecx.images-amazon.com/images/I/41S5AVsXaiL._AC_US160_.jpg",
+    "rating": "4.4",
+    "price": {
+      "Paperback": "$12.99",
+      "Kindle Edition": "$0.00"
+    },
+    "asin": "152373082X"
+  },
+  {
+    "title": "JavaScript: The Ultimate Crash Course Learning JavaScript within a Day with New Approach for Faster Programming...",
+    "author_name": "JM Shepal",
+    "url": "http://www.amazon.com/JavaScript-Ultimate-Learning-Approach-Programming-ebook/dp/B01DK065FK",
+    "author_url": null,
+    "description": "<noscript>\n<div> Book Description<br/><br/><br/><br/><h1> JavaScript: The Ultimate Crash Course Learning JavaScript within a<br/><br/>Day with New Approach for Faster Programming (Save Time and Effort)</h1><br/><br/>*FREE ON KINDLE UNLIMITED*<br/><br/><h2>You're About to Discover an Easier and Faster Way to Learn Programming</h2><br/><br/><h2>The Ultimate JavaScript Programming Guide for Beginners</h2><br/><br/>Programming can seem like an uphill task especially if it is your first time to learn programming language. It is not easy and it can be intimidating but learning it is easy! You can actually learn programming in a day! JavaScript is one of the easiest yet very important programming languages today. Its importance and benefits to the programmer cannot be underestimated as well, therefore learning JavaScript programming will definitely be rewarding and exciting. <br/><br/><h3>The key to understanding JavaScript programming lies in mastering the basics, learning some skills and tricks, gathering all the tools you will need and dedicating so much time to it. </h3><br/><br/><h2>Why You need this book? </h2><br/><br/><ul><li>To understand the Basics of programming</li><li> To have an in-depth knowledge of everything about JavaScript</li><li>To make the most out of programming for the Benefits</li><li>To learn how to create and interprete codes with ease</li><li>To improve your IT and programming skills</li><li>To enjoy the fun involved with programming</li><li>To be able to fit in the current employment sector</li></ul>To make good use of your computer<li><br/><br/> <br/><br/><h2>Here Is a Preview of What You'll Learn...</h2><br/><br/><ul><li>What JavaScript Programming is all About</li><li> JavaScript  Syntax Basics</li><li>Importance of Learning ProgrammingGetting Started in JavaScript </li><li>Requirements to Program in JavaScript Language</li><li>Variables and Operators</li><li>JavaScript Loops and Functions</li><li>Programming like an Expert</li><li>Much Much More! </li><br/><br/><b>Download your copy today! </b><br/><br/></ul></li></div>\n<em></em>\n</noscript>",
+    "isbn": null,
+    "cover_url": "http://ecx.images-amazon.com/images/I/41d9VuwvkQL._AC_US160_.jpg",
+    "rating": "4.6",
+    "price": {
+      "Kindle Edition": "$0.00"
+    },
+    "asin": "B01DK065FK"
+  }
+]

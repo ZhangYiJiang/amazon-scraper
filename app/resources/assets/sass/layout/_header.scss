@@ -1,0 +1,14 @@
+header.global {
+  color: #fff;
+  background: #333;
+  padding: 40px;
+
+  a {
+    color: lighten($link-color, 25);
+
+    &:hover {
+      text-decoration: none;
+      color: lighten($link-color, 35);
+    }
+  }
+}
