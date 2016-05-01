@@ -5,7 +5,7 @@
 
   a {
     color: lighten($link-color, 20);
-    transition: .15s color;
+    transition: .15s all;
 
     &:hover {
       color: lighten($link-color, 30);
@@ -32,6 +32,11 @@
     &.active {
       z-index: 101;
     }
+
+    img {
+      display: block;
+      padding: 20px 0;
+    }
   }
 
   .book-info {
@@ -50,11 +55,6 @@
     }
   }
 
-  img {
-    display: block;
-    padding: 20px 0;
-  }
-
   h2 {
     margin-top: 0;
   }
@@ -67,6 +67,24 @@
 
     a {
       font-weight: bold;
+    }
+  }
+
+  .book-desc {
+    h1 {
+      font-size: 24px;
+    }
+
+    h2 {
+      font-size: 21px;
+    }
+
+    h3 {
+      font-size: 18px;
+    }
+
+    h4 {
+      font-size: 16px;
     }
   }
 

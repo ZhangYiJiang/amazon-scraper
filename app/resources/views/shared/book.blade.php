@@ -26,7 +26,7 @@
       @endunless
 
       @unless(empty($book->description))
-        <div>
+        <div class="book-desc">
           {!! $book->description !!}
         </div>
       @endunless
@@ -40,7 +40,7 @@
             <p>{{ $price->edition }}
               <strong>@price($price->price)</strong></p>
           @endforeach
-          
+
           <a class="btn btn-primary btn-block btn-lg" href="{{ $book->url }}">
             Buy on Amazon</a>
         </div>

@@ -2899,7 +2899,7 @@ tbody.collapse.in {
   justify-content: center; }
   .book-list a {
     color: #78acd9;
-    transition: .15s color; }
+    transition: .15s all; }
     .book-list a:hover {
       color: #a0c4e4;
       text-decoration: none; }
@@ -2915,6 +2915,9 @@ tbody.collapse.in {
       border-color: #337ab7; }
     .book-list .book-item.active {
       z-index: 101; }
+    .book-list .book-item img {
+      display: block;
+      padding: 20px 0; }
   .book-list .book-info {
     position: absolute;
     width: 100%;
@@ -2926,9 +2929,6 @@ tbody.collapse.in {
     .book-list .book-info > div {
       margin-top: 30px;
       margin-bottom: 20px; }
-  .book-list img {
-    display: block;
-    padding: 20px 0; }
   .book-list h2 {
     margin-top: 0; }
   .book-list .byline {
@@ -2938,6 +2938,14 @@ tbody.collapse.in {
     padding-bottom: 4px; }
     .book-list .byline a {
       font-weight: bold; }
+  .book-list .book-desc h1 {
+    font-size: 24px; }
+  .book-list .book-desc h2 {
+    font-size: 21px; }
+  .book-list .book-desc h3 {
+    font-size: 18px; }
+  .book-list .book-desc h4 {
+    font-size: 16px; }
   .book-list .price {
     font-size: 18px; }
     .book-list .price .btn {

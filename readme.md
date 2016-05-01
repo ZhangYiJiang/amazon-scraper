@@ -32,6 +32,9 @@ Demo available - https://meebleforp.com/projects/glint/
  4. In the `app` folder, run `php artisan scrape:keyword` to start scraping books under each topic
  5. After that run `php artisan scrape:author` to collect author bio
  6. To test the site locally, run `php artisan serve`
+ 7. (Optional) To rerun the scrape job on a regular basis, add a cron job either directly
+ to the `scrape:keyword` command or to `* * * * * php /path/to/artisan schedule:run >> /dev/null 2>&1`
+  then add the command to `App\Console\Kernel` as per https://laravel.com/docs/5.2/scheduling
 
 ## API
 
@@ -53,3 +56,4 @@ to be done
  - Topics listings page
  - Touching up UI
  - Cleaning up API code
+ - Make scrapes more accurate and reliable
