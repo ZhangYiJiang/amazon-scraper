@@ -1,9 +1,13 @@
 # Amazon Web Scraper
 
 A simple toy project that scrapes Amazon search results and displays the data on a
-simple webpage
+simple webpage. This was created as part of the job application for Glints. 
 
-Demo available - https://meebleforp.com/projects/glint/
+Demo available - https://meebleforp.com/projects/glints/
+
+# IF YOU ARE APPLYING FOR A JOB WITH GLINTS, I WOULD STRONGLY RECOMMEND YOU STOP NOW
+
+More: https://www.facebook.com/zhangyijiang/posts/10154341187913216
 
 ## Stack:
 
